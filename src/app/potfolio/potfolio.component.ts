@@ -6,16 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./potfolio.component.css']
 })
 export class PotfolioComponent {
-  layerSymbol():void{
-    alert("Hello Ahmed")
-  }
-  closeLayer():void{
-    alert("Hello walid")
-  }
-  onSale:boolean = true;
-  price:number = 300;
-  status: boolean = false;
-// clickVent(){
-//     this.status = !this.status;       
-// }
+  
 }
