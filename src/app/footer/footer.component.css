@@ -1,0 +1,17 @@
+
+.footer{
+    background-color: #2C3E50;
+}
+.footer-item{
+    background-color: #2C3E50;
+    border: none;
+}
+.copyright{
+    background-color: #1A252F;
+
+}
+.icon{
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 50%;
+}

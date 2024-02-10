@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #2C3E50;
+}
+.navbar-brand{
+    font-size: 32px;
+    font-weight: 700;
+}
+.nav-link{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.custom-background{
+    background-color: #1ABC9C;
+}
